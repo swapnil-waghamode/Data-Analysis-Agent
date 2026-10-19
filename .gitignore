@@ -1,0 +1,23 @@
+# Environment variables (contains secrets)
+.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Uploaded / local data files
+*.csv
